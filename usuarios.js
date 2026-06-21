@@ -1,0 +1,9 @@
+node_modules/
+.env
+db/*.db
+db/respaldo_*.db
+public/uploads/accesos/*
+public/uploads/perfiles/*
+!public/uploads/accesos/.gitkeep
+!public/uploads/perfiles/.gitkeep
+*.log
